@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Hunter-0x07/Hunter-0x07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello,my friend,welcome to my github! 👋
+
+### About me
+
+![Hunter-0x07's github status](https://github-readme-stats.vercel.app/api?username=Hunter-0x07&count_private=true&show_icons=true)
