@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Nice to meet you! 👋
+### Hi! Nice to meet you! 👋
 
 ### About me
 
