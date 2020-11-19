@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello,my friend,welcome to my github! 👋
+### Nice to meet you! 👋
 
 ### About me
 
