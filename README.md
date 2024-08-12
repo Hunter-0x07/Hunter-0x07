@@ -16,6 +16,6 @@ https://github.com/Hunter-0x07/Hunter-0x07/edit/main/README.md
 
 ### About me
 
-- 😄 虽是菜鸟，但要有一颗成为大牛的心。
+- 安全作为自己的兴趣爱好，Just Keep Going~
 
 ![Hunter-0x07's github status](https://github-readme-stats.vercel.app/api?username=Hunter-0x07&count_private=true&show_icons=true)
